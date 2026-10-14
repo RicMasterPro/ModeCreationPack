@@ -1,6 +1,6 @@
-## Informazioni generali
+# Informazioni generali
 Questo progetto include un archivio contenente dei file batch utili per gestire e automatizzare operazioni quotidiane.
-
+Semplifica la tua routine su Windows con un solo click!
 
 
 # File disponibili
