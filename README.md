@@ -15,13 +15,13 @@ Fornisce un menu interattivo che consente di aggiungere o rimuovere voci persona
 Interrompe immediatamente un eventuale spegnimento o riavvio del sistema in corso.
 
 - **Apri programma:**<br>
-Consente di avviare un programma digitandone il nome. Il sistema cerca il collegamento (.lnk) sia nel desktop dell’utente che in quello pubblico e, se trovato, esegue il programma corrispondente.
+Consente di avviare un programma digitandone il nome. Il sistema cerca il collegamento (.lnk) sia nel desktop dell'utente che in quello pubblico e, se trovato, esegue il programma corrispondente.
 
 - **Apri sito:**<br>
 Consente di aprire un sito web inserendone il nome (senza specificare https://). Il link viene aperto nel browser predefinito.
 
 - **Avvio rapido:**<br>
-Fornisce un menu interattivo per eseguire diverse modalità di spegnimento e riavvio del sistema. Permette di avviare lo spegnimento rapido, l’ibernazione oppure il riavvio diretto al BIOS/UEFI.
+Fornisce un menu interattivo per eseguire diverse modalità di spegnimento e riavvio del sistema. Permette di avviare lo spegnimento rapido, l'ibernazione oppure il riavvio diretto al BIOS/UEFI.
 
 - **Backup documenti:**<br>
 Consente di effettuare un backup mirror dei contenuti della cartella Documenti su un disco secondario (D:\ o E:\) con statistiche finali.
@@ -36,7 +36,7 @@ Offre una scelta per decidere se cancellare o rinominare un file specifico, inse
 Apre una nuova finestra del prompt dei comandi (cmd.exe) impostando automaticamente la directory sul Desktop.
 
 - **Copia Menu Start:**<br>
-Consente di copiare rapidamente un programma presente sul Desktop all'interno della cartella del Menu Start di Windows, con la possibilità opzionale di spostarlo in una sottocartella specifica.
+Consente di copiare un programma presente sul Desktop all'interno della cartella del Menu Start di Windows, con la possibilità opzionale di spostarlo in una sottocartella specifica.
 
 - **Crea lista comandi**:<br>
 Fornisce un menu interattivo per generare e consultare file di testo temporanei contenenti la guida dei comandi del Prompt dei comandi (generale, di un comando specifico o entrambi), che vengono automaticamente aperti nel Blocco note ed eliminati alla chiusura.
@@ -51,7 +51,7 @@ Permette di creare un nuovo file vuoto in una cartella a scelta, specificandone 
 Mostra un orologio e la data corrente in tempo reale (aggiornato ogni secondo) all'interno di una piccola finestra dedicata.
 
 - **Riavvia Explorer:**<br>
-Forza la chiusura del processo explorer.exe (Esplora risorse) e lo riavvia immediatamente, consentendo di risolvere eventuali blocchi o problemi dell'interfaccia di Windows.
+Forza la chiusura del processo explorer.exe (Esplora risorse) e lo riavvia immediatamente, consentendo di risolvere eventuali problemi dell'interfaccia di Windows.
 
 - **Scrivi un documento:**<br>
 Permette di creare e modificare un file di testo sul Desktop, offrendo la possibilità per aggiungere nuove righe di testo in modo continuo fino alla chiusura dell'applicazione.
