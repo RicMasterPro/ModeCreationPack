@@ -4,8 +4,8 @@ Semplifica la tua routine su Windows con un solo click!
 
 
 ## File disponibili
-- **Batch:** Contiene tutti gli script batch (.bat) sviluppati.
-- **Collegamenti:** Contiene i collegamenti (.lnk) pronti all'uso che possono essere posizionati comodamente sul Desktop.
+- **La cartella Batch:** Contiene tutti gli script batch (.bat) sviluppati.
+- **La cartella Collegamenti:** Contiene i collegamenti (.lnk) pronti all'uso che possono essere posizionati comodamente sul Desktop.
 
 ## Funzionalità
 - **Aggiungi Menu Contestuale Tasto Destro:**<br>
