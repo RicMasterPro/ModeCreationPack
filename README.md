@@ -30,7 +30,7 @@ Consente di effettuare un backup mirror dei contenuti della cartella Documenti s
 Offre una calcolatrice a riga di comando che permette di digitare espressioni matematiche utilizzando gli operatori di base (+, -, *, /).
 
 - **Cancella o Rinomina file:**<br>
-Offre una scelta per decidere se cancellare un file specifico o rinominarlo, inserendo di volta in volta il percorso della cartella e il nome del file.
+Offre una scelta per decidere se cancellare un file specifico o rinominarlo, inserendo il percorso della cartella e il nome del file.
 
 - **CMD:**<br>
 Apre una nuova finestra del prompt dei comandi (cmd.exe) impostando automaticamente la directory sul Desktop.
@@ -42,7 +42,7 @@ Consente di copiare rapidamente un programma presente sul Desktop all'interno de
 Fornisce un menu interattivo per generare e consultare file di testo temporanei contenenti la guida dei comandi del Prompt dei comandi (generale, di un comando specifico o entrambi), che vengono automaticamente aperti nel Blocco note ed eliminati alla chiusura.
 
 - **Creatore di cartelle:**<br>
-Fornisce un menu interattivo per creare una o più cartelle specificando un nome per ciascuna, permettendo di scegliere se posizionarle sul Desktop, in un percorso specifico o crearne un numero multiplo.
+Fornisce un menu interattivo per creare una o più cartelle specificando un nome per ciascuna, permettendo di scegliere se posizionarle sul Desktop, in un percorso specifico o crearne più di una.
 
 - **Creatore di file:**<br>
 Permette di creare un nuovo file vuoto in una directory a scelta, specificandone il percorso, il nome e l'estensione.
